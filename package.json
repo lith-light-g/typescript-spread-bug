@@ -1,0 +1,25 @@
+{
+  "name": "typescript-spread-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lith-light-g/typescript-spread-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lith-light-g/typescript-spread-bug/issues"
+  },
+  "homepage": "https://github.com/lith-light-g/typescript-spread-bug#readme",
+  "dependencies": {
+    "@types/react": "^15.0.24",
+    "typescript": "^2.3.2",
+    "react": "^15.5.4"
+  }
+}
